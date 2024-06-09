@@ -29,7 +29,7 @@
 
 ---
 
-### Estado de mis prácticas de desarrollo personales:
+### Estado de mis prácticas de desarrollo:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=almubaDev&theme=tokyonight-duo)](https://git.io/streak-stats)
 
