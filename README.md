@@ -3,7 +3,7 @@
 
 
 ---
-### 👨 About Me:
+### 👨 Sobre mi:
 *🔭 Construyendo una aplicación web de registros de entrada y salida de personal, basado en códigos QR con Python y Django.
 
 *🌱 Estududiando desarrollo Fullstak Java y Ciberseguridad. 
@@ -12,7 +12,7 @@
 
 
 <div align="center"<br>
-<h3>⛏Languages and Tools🛠</h3>
+<h3>⛏ Lenguajes y herramientas que son parte de mis habilidades:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="HTML" width="40" heigth="40"/>&nbsp;
@@ -29,7 +29,7 @@
 
 ---
 
-### My status
+### Estado de mis prácticas de desarrollo personales:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=almubaDev&theme=tokyonight-duo)](https://git.io/streak-stats)
 
