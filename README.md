@@ -1,12 +1,12 @@
-<h1 align="center">Hi! I am Alan 🚀 Python Developer 🤓</h1>
-<h3 align="center">Passionate about digital creation and constant learning. With a deep curiosity and desire for knowledge, I consider constant learning the key to my professional success. If you are looking for a FullStack developer who is passionate about technology and results-oriented, let's talk! I am always open to new opportunities and exciting collaborations.</h3>
+<h1 align="center">¡Hola! Soy Alan 🚀 Desarrollador web 🤓</h1>
+<h3 align="center">Apasionado por la creación digital y el aprendizaje constante. Con una profunda curiosidad y deseo de conocimiento, considero el aprendizaje la constante de mi éxito profesional. Si buscas un desarrollador FullStack apasionado por la tecnología y orientado a resultados, ¡hablemos! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes..</h3>
 
 
 ---
 ### 👨 About Me:
-*🔭 I am collaboratively developing an Edtech application on recycling.
+*🔭 Construyendo una aplicación web de registros de entrada y salida de personal, basado en códigos QR con Python y Django.
 
-*🌱 I’m currently learning Fullstack Javascript - ReactJS
+*🌱 Estududiando desarrollo Fullstak Java y Ciberseguridad. 
 
 
 
