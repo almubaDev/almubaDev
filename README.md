@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Alan 🚀 Desarrollador web 🤓</h1>
-<h3 align="center">Apasionado por la creación digital y el aprendizaje constante. Con una profunda curiosidad y deseo de conocimiento, considero el aprendizaje la constante de mi éxito profesional. Si buscas un desarrollador FullStack apasionado por la tecnología y orientado a resultados, ¡hablemos! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes..</h3>
+<h3 align="center">Apasionado por la creación digital y el aprendizaje constante. Con una profunda curiosidad y deseo de conocimiento, considero a la mejora contianua la clave de mi éxito profesional. Si buscas un desarrollador FullStack apasionado por la tecnología y orientado a resultados, ¡hablemos! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes..</h3>
 
 
 ---
