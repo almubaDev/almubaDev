@@ -27,10 +27,10 @@
 </div>
 </div>
 
----
+<!-----
 
 ### Estado de mis prácticas de desarrollo:
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=almubaDev&theme=tokyonight-duo)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=almubaDev&theme=tokyonight-duo)](https://git.io/streak-stats)
 
----
+--- -->
