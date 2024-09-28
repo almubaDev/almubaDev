@@ -4,9 +4,9 @@
 
 ---
 ### 👨 Sobre mi:
-*🔭 Construyendo una aplicación web de registros de entrada y salida de personal, basado en códigos QR con Python y Django.
+*🔭 Construyendo aplicación para una cafetería con Python y Django.
 
-*🌱 Estududiando desarrollo Fullstak Java y Ciberseguridad. 
+*🌱 Estududiando Análisis de datos, Ingeniería de datos y Desarrollo Web. 
 
 
 
